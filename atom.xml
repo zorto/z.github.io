@@ -2,14 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phh95.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-22T03:30:08.933Z</updated>
+    <updated>2020-01-15T15:49:48.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://phh95.github.io"/>
     <link rel="self" href="https://phh95.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://phh95.github.io/images/avatar.png</logo>
     <icon>https://phh95.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[微信未完成 - 写于2020微信公开课]]></title>
+        <id>https://phh95.github.io/post/2020-01-09-Blog01</id>
+        <link href="https://phh95.github.io/post/2020-01-09-Blog01">
+        </link>
+        <updated>2020-01-15T15:45:59.000Z</updated>
+        <content type="html"><![CDATA[<p>文/彭宏豪</p>
+<p>每年科技圈有几大「盛事」，都会让一部分人兴奋不已，一年一度的微信公开课就属其中之一。</p>
+<p>很意外，我通过微博的转发抽奖活动，获得了一张免费的微信公开课门票，在此先感谢赞助商奔驰。</p>
+<p>原本以为这张票，可以同时圆了我两个梦想，一个是到公开课的现场，另一个则是看一下活的张小龙，就像以粉丝的身份去演唱会看一下偶像一样。</p>
+<p>为啥拿演唱会作类比呢？</p>
+<p>因为我有个微信好友，他专门建了一个微信公开课的群，群名非常接地气，我觉得也很有意思，叫「广州市民张小龙演唱会」。</p>
+<p>但遗憾的是，今年张小龙没有出席现场，代之以视频的形式和大家见面，张小龙不在现场的微信公开课，似乎少了一点东西。</p>
+<p>相比去年的 4 小时演讲，张小龙今年的演讲只有 10 多分钟，虽有些不过瘾，但「神」愿意出来唠嗑一下，实属不易。</p>
+<p>虽然去年张小龙才说过，「今年我要过来参加一下，因为你连续好几年来参加，突然中断了，有一点把一个行为艺术突然中断的感觉」，但这次他还是借用视频，把这种行为艺术以另一种方式坚持下来了。</p>
+<p>他在视频中提到了，微信放开了微信好友数量为 5000 人的限制，且已有 100万+ 的用户达到了这个上限。</p>
+<p>如果你和我一样是个普通的个体，其实无论好友上限是否存在，对我们都没有任何影响。</p>
+<p>即便张小龙以前主张不放开好友限制，主张「无压力」的社交，但面对目前存在的百万级用户的需求，他可能还是得适度做出「妥协」了。</p>
+<p>而对于这个妥协可能产生的影响，他也不得而知，他表示「诚惶诚恐、会反复思考」。</p>
+<p>这一次微信公开课的主题为 Always Beta(未完成)，或许是微信团队对现在的微信还不是很满意，所以就取了这么一个名字。</p>
+<p>一个在商业上已然获得巨大成功的产品，依然保持着自己的「原动力」，孜孜不倦地迭代自己，一直处于未完成的状态。</p>
+<p>*注：本文首发于我的微信公众号「<a href="https://mp.weixin.qq.com/s?__biz=MzAxMjY0NTY5OA==&amp;mid=2649881281&amp;idx=1&amp;sn=140348d5e350d4ad91bb347b56f91031&amp;chksm=83abfeecb4dc77fa1bd0c8312ffb78efdb2c50f9cf4163d3fcc064273225435fb86a9fc5879d&amp;token=506174781&amp;lang=zh_CN#rd">等我遇见汝</a>」，未经授权，禁止转载。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的2019年简短总结]]></title>
         <id>https://phh95.github.io/post/2019-12-22-Blog09</id>
