@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phh95.github.io</id>
     <title>好个柯基</title>
-    <updated>2020-01-23T13:41:30.611Z</updated>
+    <updated>2020-03-01T04:31:26.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://phh95.github.io"/>
     <link rel="self" href="https://phh95.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://phh95.github.io/images/avatar.png</logo>
     <icon>https://phh95.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 好个柯基</rights>
+    <entry>
+        <title type="html"><![CDATA[两面时代]]></title>
+        <id>https://phh95.github.io/post/liang-mian-shi-dai</id>
+        <link href="https://phh95.github.io/post/liang-mian-shi-dai">
+        </link>
+        <updated>2020-03-01T04:28:14.000Z</updated>
+        <content type="html"><![CDATA[<p>​今天的文章没有干货，只是给大家推荐一个我刚发现的播客节目：剩余价值SurplusValue。<br>
+这是一个由三位女媒体人发起的播客节目。</p>
+<p>诚意推荐你去收听或者看一期，北京大学罗新教授对于此次疫情的访谈节目。<br>
+节目文字稿：可以参考这篇文章https://weibo.com/ttarticle/p/show?id=2309634473715659243543#_0</p>
+<p>由于这期节目，这个播客节目在喜马拉雅、网易云音乐、微博的账号都炸了，甚至包括用来接受打赏的支付宝账号，也被清退关闭了。</p>
+<p>由于这个节目还上架到了国外的音乐平台 Spotify，据说这个应用在昨天也正式被列入了「屏蔽」列表，以后使用 Spotify，需要借助一些番茄工具才能顺利访问。</p>
+<p>这不由得让我觉得，如今衡量内容好坏最简单的标准是，内容会不会突然就凭空消失？会不会「被删」？会不会 404 ？</p>
+<p>删除的原因不一而足，但可能包含这些原因：</p>
+<blockquote>
+<p>说出了某种事实或真相<br>
+不允许存在某种「未经授权」的声音<br>
+不想让人们太过「自由」，特指头脑上的</p>
+</blockquote>
+<p>讽刺的是，「自由」这两个看似美好的字，虽然列入了人人都会念的「24字」箴言，但似乎永远只能停留在口头上。</p>
+<p>这是一个两面时代。</p>
+<p>一些媒体鼓励人们「让人讲真话，天塌不下来！」，让人热血沸腾。</p>
+<p>但如果你真的信了，那就像有人说过的一样：too naive！</p>
+<p>实际上，抓紧 delete 各种文章、「封」掉各种账号、强掉各种网站，美名其曰：你们还小，辨别能力不够，不要被「蛊惑」了，「爸爸」帮你们先过滤一遍。</p>
+<p>任何时代，「渔民」措施都是存在的，无论它们伪装得多好看、说得多动听。</p>
+<p>附录：2020年大事记，记录那些值得记录的东西，存放在石墨文档上，会不定期更新。<br>
+https://shimo.im/docs/pP98tXx93RYqyWTJ/ 《2020 大事记》</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兴趣或许是坚持最大的敌人]]></title>
         <id>https://phh95.github.io/post/2020-01-23-Blog02</id>
